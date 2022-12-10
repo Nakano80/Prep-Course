@@ -120,7 +120,7 @@ function elevarAlCuadrado(num) {
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
-  return Math.sqrt(3,num);
+  return 
 }
 
 function elevar(num, exponent) {
