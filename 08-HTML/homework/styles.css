@@ -1,0 +1,23 @@
+h1{
+    color: darkred;
+
+}
+
+img{
+    width: 400px;
+   
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;                
+    background-color: green;
+    padding: 50px;
+    border: 10px ridge goldenrod;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    color: blueviolet;
+}
